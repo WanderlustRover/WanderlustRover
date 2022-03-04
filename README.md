@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning 
--- Terraform
--- Azure
--- Python
--- Powershell
--- GitHub Actions
+🌱 I’m currently learning 
+- Terraform
+- Azure
+- Python
+- Powershell
+- GitHub Actions
 
 <!--
 **WanderlustRover/WanderlustRover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
